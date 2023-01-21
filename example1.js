@@ -1,0 +1,5 @@
+const name=require('./app')
+const fun1 = require('./example2')
+const fun=require('./example2')
+fun1(name.variable1)
+fun1(name.variable2)
